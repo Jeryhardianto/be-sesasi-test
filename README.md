@@ -18,6 +18,7 @@
 
 ## Installation
 ```bash
+ $ git clone https://github.com/Jeryhardianto/be-sesasi-test.git
  $ composer install
  $ cp .env.example .env
  $ php artisan key:generate
