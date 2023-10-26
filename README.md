@@ -12,7 +12,7 @@
 
 ## Database Desain
 ```bash
- $ https://dbdiagram.io/d/60f6b1c74ed9be1c05d0a5b7
+ $ https://dbdiagram.io/d/be-sesasi-test-653a8871ffbf5169f0875e89
 ```
 
 
